@@ -1,0 +1,14 @@
+.btn {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.btn button {
+  width: calc(25% - 10px); /* Adjust button width as needed */
+  height: 5rem;
+  margin: 2px; /* Adjust margin between buttons as needed */
+  border-radius: 50%;
+  font-size: 2rem;
+  color: #d4d4d2;
+}
